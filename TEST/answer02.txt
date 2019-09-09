@@ -1,0 +1,3 @@
+push my local branch to the remote repository
+remote name
+git checkout -b my_local_branch

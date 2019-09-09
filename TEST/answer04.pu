@@ -1,0 +1,7 @@
+@startuml
+
+workingPlace -> stagingArea : git add file
+stagingArea -> localRespository : git commit file
+localRespository -> remoteRespository : git push
+
+@enduml
